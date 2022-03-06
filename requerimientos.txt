@@ -1,0 +1,35 @@
+Caso: Pasteleria
+
+CLIENTE
+
+* Necesita ver los sabores de los pasteles y precios 
+  pasteles.html                  X OK
+
+* Necesita ver los adornos con los que se puede decorar y precios
+ adornos.html                    X OK
+
+* Puede combinar sabores de su preferencia X OK
+* Puede combinar adornos de su preferencia X OK
+* Necesita poner su pedido en un formulario
+* El formulario debe tener los datos de contacto del cliente:
+  Nombre                          X OK
+  Telefono                        X OK
+  Correo Electronico              X OK
+  Descripcion general del pastel  X OK
+  Seleccion de sabores y adornos  X OK
+  pedido.html
+
+PASTELERO
+
+* Necesita ver la informacion de la cantidad de sabores disponibles
+* Necesita ver la informacion de la cantidad de adornos disponibles 
+* Necesita una tabla donde aparezcan los pedidos realizados con los X OK
+  datos del formulario
+
+PAGINA
+
+* Debe contener 
+  la informacion de la pasteleria  X OK
+  Direccion                        X OK
+  Telefono                         X OK
+  Horarios de atencion.            X OK
